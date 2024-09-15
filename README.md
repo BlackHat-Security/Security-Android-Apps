@@ -1,6 +1,9 @@
-# 🌈 Colorful Text Using Python Syntax
+# 🌈 Colorful Text Using JSON Syntax
 
-```python
-HiddenServiceDir = "/data/data/com.termux/files/home/tor-hidden-service/"
-HiddenServicePort = 80
-Address = "127.0.0.1:8080"
+Here is the configuration with multiple colors for different parts of the text.
+
+```json
+{
+  "HiddenServiceDir": "/data/data/com.termux/files/home/tor-hidden-service/",
+  "HiddenServicePort": "80 127.0.0.1:8080"
+}
