@@ -32,9 +32,7 @@ pkg install tor -y
 
 Create the necessary directories:
 
-# 🚀 Tor Hidden Service Setup with Multi-Color Syntax
 
-Here is the configuration for setting up a Tor Hidden Service with colorful text.
 
 ```javascript
 mkdir -p /data/data/com.termux/files/home/tor-hidden-service
@@ -89,10 +87,6 @@ sudo apt-get install tor
 # Configure Tor:
 - Edit the Tor configuration file (/etc/tor/torrc).
 
-
-```cpp
-sudo apt-get install tor
-```
 ```css
 sudo nano /etc/tor/torrc
 ```
