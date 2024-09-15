@@ -133,8 +133,7 @@ python3 main.py
 
 ### Screenshots
 
-<img src="x">
-<img src="x">
+<img src="https://i.ibb.co/mq6ZcgD/IMG-20240916-003959-450.jpg">
 <img src="https://i.ibb.co/6BwV50S/Screenshot-2024-09-15-23-31-06-81-84d3000e3f4017145260f7618db1d683.jpg">
 <img src="https://i.ibb.co/8MmPFZq/Screenshot-2024-09-15-23-36-36-87-84d3000e3f4017145260f7618db1d683.jpg">
 
