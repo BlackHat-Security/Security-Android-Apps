@@ -90,10 +90,10 @@ sudo apt-get install tor
 - Edit the Tor configuration file (/etc/tor/torrc).
 
 
-```json
-{
+```cpp
+sudo apt-get install tor
+```
 sudo nano /etc/tor/torrc
-}
 
 ```
 
