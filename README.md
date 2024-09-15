@@ -112,7 +112,7 @@ HiddenServicePort 80 127.0.0.1:8080
 
 - Create the hidden service directory and set permissions.
 
-```java
+```javascript
 sudo mkdir -p /var/lib/tor/hidden_service/
 sudo chown -R debian-tor:debian-tor /var/lib/tor/hidden_service/
 ```
