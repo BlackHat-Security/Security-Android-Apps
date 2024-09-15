@@ -93,8 +93,8 @@ sudo apt-get install tor
 ```cpp
 sudo apt-get install tor
 ```
+```css
 sudo nano /etc/tor/torrc
-
 ```
 
 - Add the following lines at the end of the file to set up a hidden service:
@@ -104,8 +104,12 @@ sudo nano /etc/tor/torrc
 HiddenServiceDir /var/lib/tor/hidden_service/
 HiddenServicePort 80 127.0.0.1:8080
 ```
+
+
 - Save the file and exit (`CTRL + X, then Y to save`)
+
 # Create Hiden Service Dir
+
 - Create the hidden service directory and set permissions.
 
 ```java
