@@ -1,8 +1,7 @@
-# Security-Android-Apps
-# 🚀 Tor Hidden Service Setup
+# 🚀 Tor Hidden Service Setup with Colorful Syntax
 
-Below is the configuration for setting up a Tor Hidden Service. You can copy it and use it for your project.
+Here is the configuration for setting up a Tor Hidden Service. The code block is formatted to show different parts in various colors.
 
-```bash
+```nginx
 HiddenServiceDir /data/data/com.termux/files/home/tor-hidden-service/
 HiddenServicePort 80 127.0.0.1:8080
