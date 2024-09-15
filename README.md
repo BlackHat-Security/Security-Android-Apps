@@ -66,10 +66,10 @@ cd OnionHost
 pip install - r requirements.txt
 python main.py 
 ```
-- If you are Using Termux So Select 1 
+- If you are Using Termux So Select 1 And  Password `abhi`
 
 
-# 🔵 Complate Setup For Linux 
+# ðŸ”µ Complate Setup For Linux 
 
 - Install Required Packages:Python: Install Python 3 if not already installed.
 
@@ -109,8 +109,16 @@ HiddenServicePort 80 127.0.0.1:8080
 ```javascript
 sudo mkdir -p /var/lib/tor/hidden_service/
 sudo chown -R debian-tor:debian-tor /var/lib/tor/hidden_service/
+sudo chmod 700 /var/lib/tor/hidden_service/
 ```
 
+```html
+sudo systemctl restart tor
+```
+
+```html
+sudo journalctl -xe | grep tor
+```
 # Now Its Time Run this Tool 
 
 - Installation Command 
@@ -121,15 +129,18 @@ cd OnionHost
 pip3 install - r requirements.txt
 python3 main.py 
 ```
-- If you are Using Termux So Select 2
+- If you are Using Linux So Select 2 And password `abhi`
 
 ### Screenshots
 
+<img src="x">
+<img src="x">
+<img src="https://i.ibb.co/6BwV50S/Screenshot-2024-09-15-23-31-06-81-84d3000e3f4017145260f7618db1d683.jpg">
+<img src="https://i.ibb.co/8MmPFZq/Screenshot-2024-09-15-23-36-36-87-84d3000e3f4017145260f7618db1d683.jpg">
 
+ Telegram Channel : [Channel](https://telegram.me/BlackHat_HackerX)
 
- Telegram Channel : [Channel](https://t.me/BlackHat_HackerX)
-
-#### Enjoy This Script BY BlackHat-Abhi !
+## Jai Shree Ram Enjoy This Tool By BlackHat-Abhi 
 
 ## CONNECT WITH US :
 
@@ -142,7 +153,9 @@ python3 main.py
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-GROUP-red?style=for-the-badge&logo=telegram)](https://t.me/HackerX_Termux_Help)
 
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/Blackhat_HackerX)
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/BlackEagle_Sec)
+
 
 [![Whatsapp](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://bit.ly/3LiuRV9)
 
