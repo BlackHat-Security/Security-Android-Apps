@@ -30,9 +30,8 @@ Address = "127.0.0.1:8080"
 # 🌈 Colorful Text Using JavaScript Syntax
 
 ```javascript
-const HiddenServiceDir = "/data/data/com.termux/files/home/tor-hidden-service/";
-const HiddenServicePort = 80;
-const Address = "127.0.0.1:8080";
+"HiddenServiceDir": "/data/data/com.termux/files/home/tor-hidden-service/",
+  "HiddenServicePort": "80 127.0.0.1:8080"
 
 ```
 
